@@ -1,0 +1,32 @@
+footer
+{
+	background: #f8f8f8;
+	padding: 3em 0;
+	margin-top: 5em;
+	width: 100%;
+}
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+} 
+#eliminar
+{
+	margin-right: 0.5em;
+}
+#boton
+{
+	margin-right: 0.5em;
+}
+.sesion
+{
+	margin: 10em 0em;
+	padding: 1.5em 1em;
+	border-radius: 8px;
+	box-shadow: 0px 0px 15px #555;
+}
